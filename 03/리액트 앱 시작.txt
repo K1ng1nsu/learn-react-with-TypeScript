@@ -1,0 +1,18 @@
+With CRA
+
+ES6
+npx create-react-app [프로젝트명]
+
+TS
+npx create-react-app [프로젝트명] --template typescript
+
+//
+With Vite
+
+ES6
+npm init vite [프로젝트명] -- --template react
+
+TS
+npm init viet [프로젝트명] -- --template react-ts
+
+
